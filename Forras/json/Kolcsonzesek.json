@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "kolcsonzokId": 1,
+    "iro": "J.K. Rowling",
+    "mufaj": "Fantasy",
+    "cim": "Harry Potter és a Bölcsek Köve"
+  },
+  {
+    "id": 2,
+    "kolcsonzokId": 2,
+    "iro": "Agatha Christie",
+    "mufaj": "Krimi",
+    "cim": "Hálószoba Kilencvenötben"
+  },
+  {
+    "id": 3,
+    "kolcsonzokId": 3,
+    "iro": "George Orwell",
+    "mufaj": "Dystópia",
+    "cim": "1984"
+  },
+  {
+    "id": 4,
+    "kolcsonzokId": 4,
+    "iro": "Harper Lee",
+    "mufaj": "Regény",
+    "cim": "Ne bántsátok a feketerigót!"
+  },
+  {
+    "id": 5,
+    "kolcsonzokId": 5,
+    "iro": "Gabriel García Márquez",
+    "mufaj": "Realizmus",
+    "cim": "Száz év magány"
+  },
+  {
+    "id": 6,
+    "kolcsonzokId": 6,
+    "iro": "J.R.R. Tolkien",
+    "mufaj": "Fantasy",
+    "cim": "A Gyűrűk Ura"
+  },
+  {
+    "id": 7,
+    "kolcsonzokId": 7,
+    "iro": "Jane Austen",
+    "mufaj": "Romantikus",
+    "cim": "Büszkeség és balítélet"
+  },
+  {
+    "id": 8,
+    "kolcsonzokId": 8,
+    "iro": "Fyodor Dostoyevsky",
+    "mufaj": "Dráma",
+    "cim": "Bűn és bűnhődés"
+  },
+  {
+    "id": 9,
+    "kolcsonzokId": 9,
+    "iro": "Leo Tolstoy",
+    "mufaj": "Eposz",
+    "cim": "Háború és béke"
+  },
+  {
+    "id": 10,
+    "kolcsonzokId": 10,
+    "iro": "Mark Twain",
+    "mufaj": "Kaland",
+    "cim": "Huckleberry Finn kalandjai"
+  },
+  {
+    "id": 11,
+    "kolcsonzokId": 1,
+    "iro": "Stephen King",
+    "mufaj": "Horror",
+    "cim": "Az"
+  },
+  {
+    "id": 12,
+    "kolcsonzokId": 2,
+    "iro": "Gillian Flynn",
+    "mufaj": "Thriller",
+    "cim": "Én, a lány"
+  },
+  {
+    "id": 13,
+    "kolcsonzokId": 3,
+    "iro": "Ernest Hemingway",
+    "mufaj": "Klasszikus",
+    "cim": "Az öreg és a tenger"
+  },
+  {
+    "id": 14,
+    "kolcsonzokId": 4,
+    "iro": "Virginia Woolf",
+    "mufaj": "Modernizmus",
+    "cim": "Hullámok"
+  },
+  {
+    "id": 15,
+    "kolcsonzokId": 5,
+    "iro": "Terry Pratchett",
+    "mufaj": "Fantasy",
+    "cim": "A Kolorádói óra"
+  },
+  {
+    "id": 16,
+    "kolcsonzokId": 6,
+    "iro": "Emily Brontë",
+    "mufaj": "Romantikus",
+    "cim": "Üvöltő szelek"
+  },
+  {
+    "id": 17,
+    "kolcsonzokId": 7,
+    "iro": "Ray Bradbury",
+    "mufaj": "Sci-fi",
+    "cim": "451 Fahrenheit"
+  },
+  {
+    "id": 18,
+    "kolcsonzokId": 8,
+    "iro": "Philip K. Dick",
+    "mufaj": "Sci-fi",
+    "cim": "A Mátrix"
+  },
+  {
+    "id": 19,
+    "kolcsonzokId": 9,
+    "iro": "Arthur Conan Doyle",
+    "mufaj": "Detektív",
+    "cim": "Sherlock Holmes kalandjai"
+  },
+  {
+    "id": 20,
+    "kolcsonzokId": 10,
+    "iro": "Herman Melville",
+    "mufaj": "Klasszikus",
+    "cim": "Moby Dick"
+  },
+  {
+    "id": 21,
+    "kolcsonzokId": 1,
+    "iro": "Suzanne Collins",
+    "mufaj": "Sci-fi",
+    "cim": "Az éhezők viadala"
+  },
+  {
+    "id": 22,
+    "kolcsonzokId": 2,
+    "iro": "Margaret Atwood",
+    "mufaj": "Dystópia",
+    "cim": "A szolgálólány meséje"
+  },
+  {
+    "id": 23,
+    "kolcsonzokId": 3,
+    "iro": "H.G. Wells",
+    "mufaj": "Sci-fi",
+    "cim": "A háború a világokban"
+  },
+  {
+    "id": 24,
+    "kolcsonzokId": 4,
+    "iro": "Roald Dahl",
+    "mufaj": "Gyermek",
+    "cim": "Matilda"
+  },
+  {
+    "id": 25,
+    "kolcsonzokId": 5,
+    "iro": "Douglas Adams",
+    "mufaj": "Sci-fi",
+    "cim": "Galaxis útikalauz stopposoknak"
+  },
+  {
+    "id": 26,
+    "kolcsonzokId": 6,
+    "iro": "J.D. Salinger",
+    "mufaj": "Regény",
+    "cim": "Zabhegyező"
+  },
+  {
+    "id": 27,
+    "kolcsonzokId": 7,
+    "iro": "Ken Kesey",
+    "mufaj": "Modernizmus",
+    "cim": "A sikoly"
+  },
+  {
+    "id": 28,
+    "kolcsonzokId": 8,
+    "iro": "Kazuo Ishiguro",
+    "mufaj": "Fikció",
+    "cim": "Az eltemetett óriás"
+  },
+  {
+    "id": 29,
+    "kolcsonzokId": 9,
+    "iro": "Aldous Huxley",
+    "mufaj": "Sci-fi",
+    "cim": "Szép új világ"
+  },
+  {
+    "id": 30,
+    "kolcsonzokId": 10,
+    "iro": "Michael Crichton",
+    "mufaj": "Sci-fi",
+    "cim": "Jurassic Park"
+  }
+]

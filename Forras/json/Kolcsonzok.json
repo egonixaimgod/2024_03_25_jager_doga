@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nev": "Kovács Ádám",
+    "szulIdo": "1990-05-15T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 2,
+    "nev": "Tóth Bianka",
+    "szulIdo": "1985-11-23T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 3,
+    "nev": "Nagy Gergő",
+    "szulIdo": "1978-09-02T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 4,
+    "nev": "Szabó Anna",
+    "szulIdo": "1993-03-10T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 5,
+    "nev": "Horváth Péter",
+    "szulIdo": "1980-07-18T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 6,
+    "nev": "Kiss Katalin",
+    "szulIdo": "1975-01-30T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 7,
+    "nev": "Molnár Bence",
+    "szulIdo": "1987-12-04T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 8,
+    "nev": "Farkas Zsuzsa",
+    "szulIdo": "1995-06-28T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 9,
+    "nev": "Bálint Dávid",
+    "szulIdo": "1972-10-07T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 10,
+    "nev": "Szűcs Eszter",
+    "szulIdo": "1983-04-16T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 11,
+    "nev": "Takács Gábor",
+    "szulIdo": "1991-08-22T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 12,
+    "nev": "Simon Virág",
+    "szulIdo": "1979-02-14T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 13,
+    "nev": "Varga Tamás",
+    "szulIdo": "1988-10-31T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 14,
+    "nev": "Papp Nikolett",
+    "szulIdo": "1996-09-09T00:00:00",
+    "kolcsonzesek": []
+  },
+  {
+    "id": 15,
+    "nev": "Kovács Márton",
+    "szulIdo": "1981-12-19T00:00:00",
+    "kolcsonzesek": []
+  }
+]
